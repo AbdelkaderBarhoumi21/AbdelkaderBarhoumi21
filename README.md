@@ -28,7 +28,7 @@ I’m looking to collaborate on web development projects. If you have an interes
 ## 🛠️ Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,css,dart,discord,docker,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,css,dart,discord,docker,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,qml" alt="Tech Stack" />
 </p>
 
 <br>
