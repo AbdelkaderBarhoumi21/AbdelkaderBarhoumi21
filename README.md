@@ -19,7 +19,7 @@ I'm a passionate **Full-Stack Developer** with a focus on web development, embed
 
 ## 💼 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,dart,flutter,py,java,js,react,nodejs,firebase,mongodb,git,docker,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,css,dart,discord,docker,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,qml,Scikit-learn" alt="Tech Stack" />
 </p>
 
 ## 🚀 Projects & Collaboration
