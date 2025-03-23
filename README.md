@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Developer** with expertise in cross-platform devel
 
 ## 💼 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,qt,dart,flutter,py,java,js,react,nodejs,firebase,mongodb,git,docker,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,qt,dart,flutter,py,java,js,react,nodejs,firebase,mongodb,php,laravel,git,docker,figma&perline=8" alt="Tech Stack" />
 </p>
 *Specialized in Qt/QML for native cross-platform development*
 
