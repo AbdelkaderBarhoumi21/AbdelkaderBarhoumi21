@@ -5,30 +5,32 @@
 </p>
 
 ## 👀 About Me
-I'm a passionate **Full-Stack Developer** with a focus on web development, embedded systems, and mobile/desktop applications. Fluent in French (DELF B2 certified) and constantly expanding my technical expertise. I thrive on solving complex problems and building scalable solutions.
+I'm a passionate **Full-Stack Developer** with expertise in cross-platform development and embedded systems. Fluent in French (DELF B2) and English (IELTS B2), I specialize in building robust applications using modern frameworks like Qt/QML and Flutter.
 
 ## 🌱 Currently Learning
-- Advanced concepts in **Embedded Systems** and **IoT**
-- Cross-platform development with **Flutter & Dart**
-- Cloud architectures with **AWS & Firebase**
+- Advanced **Qt/QML** for desktop/mobile UI development
+- Edge computing with **Raspberry Pi & IoT sensors**
+- Performance optimization in embedded systems
 
 ## 📜 Certifications
-- **DELF B2** (Diplôme d'Études en Langue Française) - *CECRL B2 Level*  
-  *Institut Français de Tunis - Score: 68.5/100*  
-  *Oral Comprehension: 18/25 | Written Production: 21/25*
+- **DELF B2** (CECRL) - *Institut Français de Tunis*  
+  *Overall Score: 68.5/100 | Written Production: 21/25*
+- **IELTS B2** - *British Council Tunisie*  
+  *English proficiency certification*
 
 ## 💼 Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,css,dart,discord,docker,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,qml,Scikit-learn" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,c,cpp,qt,dart,flutter,py,java,js,react,nodejs,firebase,mongodb,git,docker,figma&perline=8" alt="Tech Stack" />
 </p>
+*Specialized in Qt/QML for native cross-platform development*
 
 ## 🚀 Projects & Collaboration
-- Open to collaborate on innovative **Web3** or **AI-driven projects**
-- Currently building a smart home system using **Raspberry Pi & OpenCV**
-- Let's connect if you need help with:  
-  ✅ Full-stack development  
-  ✅ Mobile apps (Flutter)  
-  ✅ API design & optimization  
+- Developing a **Qt-based dashboard** for industrial IoT systems
+- Created a Flutter/QML hybrid app for smart home control
+- Open to collaborate on:  
+  ✅ Embedded GUI development (Qt/QML)  
+  ✅ Multi-language localization systems  
+  ✅ High-performance desktop applications
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -42,8 +44,8 @@ I'm a passionate **Full-Stack Developer** with a focus on web development, embed
 
 ## 📫 Let's Connect
 - 💌 Email: [abdelkaderbarhoumi21@gmail.com](mailto:abdelkaderbarhoumi21@gmail.com)
-- 💬 LinkedIn: [Abdelkader Barhoumi](https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX) *(à remplir)*
-- 🐦 Twitter: [@DevBarhoumi](https://twitter.com/DevBarhoumi) *(exemple)*
+- 💼 LinkedIn: [in/abdelkader-barhoumi](https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX) *(à compléter)*
+- 🔧 GitLab: [@barhoumi-dev](https://gitlab.com/barhoumi-dev) *(exemple)*
 
 ## 🏆 Achievements
 <a href="https://github.com/ryo-ma/github-profile-trophy">
