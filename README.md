@@ -16,7 +16,7 @@ I’m looking to collaborate on web development projects. If you have an interes
 ## 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdelkader23176&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBarhoumi21&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -35,11 +35,10 @@ I’m looking to collaborate on web development projects. If you have an interes
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelkader23176&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="65%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelkader23176&theme=dark" alt="GitHub Profile Summary" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelkaderBarhoumi21&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelkaderBarhoumi21&theme=dark" alt="GitHub Profile Summary" width="65%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkader23176&layout=compact&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBarhoumi21&layout=compact&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="30%" />
 </p>
-
