@@ -1,17 +1,45 @@
-👋 Hi, I’m @abdelkader23176
-🎓 I’m a Mechatronics and Embedded Systems Engineer with expertise in:
+# 👋 Hi, I’m Haroun (@abdelkader23176)
 
-🚀 Mobile development using Flutter
-🌐 Embedded systems programming with ESP32, STM32, and Raspberry Pi
-🤖 Robotics and automation, including ROS (Robot Operating System)
-📐 Mechanical design using SolidWorks
-🛠️ PCB design and prototyping with Altium Designer
-📊 Working with databases and cloud platforms
-👀 I’m interested in:
-Building cutting-edge robotics, IoT, and mobile solutions.
-Exploring the synergy between hardware, software, and mechanical systems.
-🌱 I’m currently learning: Advanced ROS, Flutter integration with IoT, and cloud computing.
-💼 I’m looking to collaborate on:
-Projects involving Flutter apps, robotics, embedded IoT systems, or multidisciplinary innovations.
-📫 How to reach me: abdelkaderbarhoumi21@gmail.com
-⚡ Fun fact: I thrive at the intersection of technology, from PCB design to app development to building robots!
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abdelkader23176&label=Profile%20Views&color=0e75b6&style=flat" alt="abdelkader23176" /> 
+</p>
+
+## 👀 About Me
+I'm passionate about web development and constantly striving to learn more in this exciting field. My current focus is on expanding my knowledge and skills in web development.
+
+## 🌱 Currently Learning
+I’m immersing myself in various web development technologies and best practices to enhance my expertise.
+
+## 💼 Collaboration
+I’m looking to collaborate on web development projects. If you have an interesting project or idea, feel free to reach out!
+
+## 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdelkader23176&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+## 📫 How to Reach Me
+- **Email**: [abdelkaderbarhoumi21@gmail.com](mailto:abdelkaderbarhoumi21@gmail.com)
+
+ 
+
+## 🛠️ Technologies and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap,typescript,c,cpp,css,dart,discord,docker,dotnet,figma,firebase,flutter,github,git,gradle,graphql,html,java,js,kafka,kali,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,ps,php,postgres,postman,py,react,bash,symfony,threejs,unity,blender" alt="Tech Stack" />
+</p>
+
+<br>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelkader23176&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="GitHub Stats" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelkader23176&theme=dark" alt="GitHub Profile Summary" width="65%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkader23176&layout=compact&langs_count=8&theme=dark&icon_color=74A3FE&hide_border=true&title_color=74A3FE&text_color=FFFFFF" alt="Top Languages" width="30%" />
+</p>
+
