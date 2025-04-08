@@ -5,7 +5,7 @@
 </p>
 
 ## 👀 About Me
-I'm a passionate **Full-Stack Developer** with expertise in cross-platform development and embedded systems. Fluent in French (DELF B2) and English (IELTS B2), I specialize in building robust applications using modern frameworks like Qt/QML and Flutter.
+I'm a passionate **Full-Stack Developer** with expertise in cross-platform development and embedded systems. Fluent in French (DELF B2) and English (IELTS B2), I specialize in building robust applications using modern frameworks like Qt/QML and Flutter And JS.
 
 ## 🌱 Currently Learning
 - Advanced **Qt/QML** for desktop/mobile UI development
