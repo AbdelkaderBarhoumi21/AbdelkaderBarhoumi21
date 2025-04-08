@@ -9,6 +9,7 @@ I'm a passionate **Full-Stack Developer** with expertise in cross-platform devel
 
 ## 🌱 Currently Learning
 - Advanced **Qt/QML** for desktop/mobile UI development
+- Advanced Flutter for desktop/mobile UI development
 - Edge computing with **Raspberry Pi & IoT sensors**
 - Performance optimization in embedded systems
 
