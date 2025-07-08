@@ -70,7 +70,7 @@ _Jan 2022 – Jun 2022_
 ## 🛠️ Core Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,dart,flutter,js,nodejs,php,laravel,python,raspberrypi,stm32,mqtt,firebase,mysql,mongodb&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,ros,fqrrtos,python,c,cpp,js,dart,php,qt,flutter,laravel,git,docker,figma&perline=8" alt="Tech Stack" />
 </p>
 
 - **Languages:** C, C++, Python, JavaScript, Dart, PHP  
