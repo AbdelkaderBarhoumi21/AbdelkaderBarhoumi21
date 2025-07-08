@@ -26,8 +26,24 @@ _Rades, 2019–2022_
 ---
 
 ## 📜 Certifications
-- **Node-RED Advanced** — Node-RED Academy (FlowFuse)  
-- **Internet of Things (IoT)** — Udemy (MakeIntern & LearntoUpgrade)  
+- **Internet of Things (IoT) Online Course** — Udemy, Jul 2025  
+  · IoT · AWS IoT · Microsoft Azure · Cloud Computing · Big Data  
+- **Node-RED Advanced** — Node-RED Academy (FlowFuse), Jul 2025  
+  · Node-RED · MQTT · HTTP · Databases  
+- **Node-RED Fundamentals** — Node-RED Academy (FlowFuse), Jul 2025  
+  · MQTT · Node-RED  
+- **Dart & Flutter: Complete Flutter Development** — Udemy, Jun 2025  
+  · Flutter · Dart · Mobile Dev · Firebase · Android SDK  
+- **Flutter & Firebase Chat App** — Udemy, Jun 2025  
+  · Flutter · Firebase · Cloud Firestore · Dart  
+- **Master C++ Programming From Beginner To Advanced** — Udemy, Jun 2025  
+  · C++ · Qt/QML · Qt Creator  
+- **C Programming Bootcamp 2025** — Udemy, May 2025  
+  · Embedded C · C/C++  
+- **Low-Level Computing for CS & Engineering** — Udemy, May 2025  
+  · C++ · CPLD · CPU Architecture · Embedded Systems  
+- **Bluetooth Low Energy Fundamentals** — Nordic Semiconductor, Apr 2025  
+  · BLE Protocol · Wireless Communications  
 - **IELTS B2** — British Council Tunisie  
 - **DELF B2** — Institut Français de Tunis (68.5/100)
 
@@ -104,8 +120,8 @@ _Jan 2022 – Jun 2022_
 
 ## 📫 Let’s Connect
 - ✉️ [abdelkaderbarhoumi21@gmail.com](mailto:abdelkaderbarhoumi21@gmail.com)  
-- 🔗 [LinkedIn/in/abdelkader-barhoumi-XXXXXX](https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX)  
-- 🐙 [GitLab/barhoumi-dev](https://gitlab.com/barhoumi-dev)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX)  
+- 🐙 [GitLab](https://gitlab.com/barhoumi-dev)
 
 ---
 
@@ -115,4 +131,4 @@ _Jan 2022 – Jun 2022_
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBarhoumi21&theme=gruvbox&no-frame=true&row=2&column=4" alt="Trophies" />
   </a>
-</p>  
+</p>
