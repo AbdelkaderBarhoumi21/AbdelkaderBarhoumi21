@@ -2,6 +2,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelkader23176&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX">
+    <img src="https://img.shields.io/badge/LinkedIn-abdelkader%20barhoumi-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdelkaderbarhoumi21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdelkaderbarhoumi21%40gmail.com-red?logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -42,22 +48,22 @@ _B.Sc. in Industrial Electricity_ (2019 – 2022)
 
 ### Capgemini Engineering — Embedded Systems Engineer Intern  
 _Feb 2025 – Jul 2025_  
-- Designed a Qt/QML dashboard for electronic shelf management (C/C++, PHP/Laravel, BLE).  
+- Qt/QML dashboard for electronic shelf management (C/C++, PHP/Laravel, BLE).  
 - Architected RESTful APIs and MQTT workflows on Raspberry Pi.
 
 ### OPALIA RECORDATI — Industry 4.0 Intern  
 _Jul 2024 – Sep 2024_  
-- Developed SCADA/ERP UIs with Node-RED, integrated STM32 sensors over Profibus.  
-- Implemented secure MQTT pipelines and CouchDB storage.
+- SCADA/ERP UIs with Node-RED; STM32 sensors over Profibus.  
+- Secure MQTT pipelines and CouchDB storage.
 
 ### CMI Impianti — Master’s Thesis Internship  
 _Jan 2024 – Jul 2024_  
-- Built an autonomous security robot with Python, OpenCV, PyTorch, Flutter.  
-- Integrated multi-sensor fusion and real-time alerting.
+- Autonomous security robot (Python, OpenCV, PyTorch, Flutter).  
+- Multi-sensor fusion and real-time alerting.
 
 ### SETEM — Bachelor’s Thesis Internship  
 _Jan 2022 – Jun 2022_  
-- Created an ESP32-based smart energy meter; WebSocket & ThingSpeak dashboard.
+- ESP32-based smart energy meter; WebSockets & ThingSpeak dashboard.
 
 ---
 
@@ -71,7 +77,7 @@ _Jan 2022 – Jun 2022_
 - **Frameworks:** Qt/QML, Flutter, Node-RED, Laravel  
 - **Cloud & DB:** Firebase, MySQL, PostgreSQL, MongoDB, CouchDB  
 - **Protocols & HW:** MQTT, BLE, UART, I²C, SPI, Profibus, ESP32, STM32, Raspberry Pi  
-- **DevOps:** Git, Docker, CI/CD pipelines, Figma  
+- **DevOps & Tools:** Git, Docker, CI/CD pipelines, Figma  
 
 ---
 
@@ -82,6 +88,21 @@ _Jan 2022 – Jun 2022_
 - **Connected Irrigation System** (ESP32 → Firebase → Flutter)  
 - **OBD-II Vehicle Diagnostics** (ESP32 + ThingSpeak)  
 - **Ambulatory BLE Monitor** (nRF52822 + MLX90614)  
+
+---
+
+## 📈 Activity & Trophies  
+
+<p align="center">
+  <!-- Replace with your actual WakaTime or other activity badge -->
+  <img src="https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg" alt="WakaTime" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBarhoumi21&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
