@@ -120,7 +120,7 @@ _Jan 2022 – Jun 2022_
 
 ## 📫 Let’s Connect  
 ✉️ abdelkaderbarhoumi21@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX)  
+🔗 [LinkedIn](https://www.linkedin.com/in/barhoumi23176/)  
 🐙 [GitLab](https://gitlab.com/barhoumi-dev)
 
 ---
