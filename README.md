@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelkader23176&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/abdelkader-barhoumi-XXXXXX">
+  <a href="https://www.linkedin.com/in/barhoumi23176/">
     <img src="https://img.shields.io/badge/LinkedIn-abdelkader%20barhoumi-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:abdelkaderbarhoumi21@gmail.com">
