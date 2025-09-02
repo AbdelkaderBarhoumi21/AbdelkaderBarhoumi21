@@ -50,6 +50,7 @@ _B.Sc. in Industrial Electricity_ (2019 – 2022)
 _Feb 2025 – Jul 2025_  
 - Qt/QML dashboard for electronic shelf management (C/C++, PHP/Laravel, BLE).  
 - Architected RESTful APIs and MQTT workflows on Raspberry Pi.
+- Flutter Ecommerce Full Stack App (Admin - user - delivery).
 
 ### OPALIA RECORDATI — Industry 4.0 Intern  
 _Jul 2024 – Sep 2024_  
