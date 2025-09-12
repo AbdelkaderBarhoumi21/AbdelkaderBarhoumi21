@@ -30,17 +30,23 @@ _B.Sc. in Industrial Electricity_ (2019 – 2022)
 ---
 
 ## 📜 Certifications  
-- Internet of Things (IoT) Online Course — Udemy  
-- Node-RED Advanced — Node-RED Academy (FlowFuse)  
-- Node-RED Fundamentals — Node-RED Academy (FlowFuse)  
-- Dart & Flutter: Complete Flutter Development — Udemy  
-- Flutter & Firebase Chat App — Udemy  
-- Master C++ Programming From Beginner To Advanced — Udemy  
-- C Programming Bootcamp 2025 — Udemy  
-- Low-Level Computing for CS & Engineering — Udemy  
-- Bluetooth Low Energy Fundamentals — Nordic Semiconductor  
-- IELTS B2 — British Council  
-- DELF B2 — Institut Français de Tunis  
+• The Complete MongoDB Developers Course — Udemy
+ • NodeJS Projects Bootcamp 2025: Learn by Doing — Udemy
+ • PostgreSQL Bootcamp: Complete Beginner to Advanced Course — Udemy
+ • Mastering MYSQL: Database Creation, Management SQL Queries — Udemy
+ • Git- GitHub for Beginners: From Start to Star — Udemy
+ • Data Structures and OOP with C++ : CS104, CS105 Masterclass — Udemy
+ • Rust Programming Bootcamp- 100 Projects in 100 Days— Udemy
+ • The Complete Rust Course — Udemy
+ • Internet of Things (IoT) Online Course — Udemy
+ • Node-RED Advanced — FlowFuse
+ • Node-RED Fundamentals — FlowFuse
+ • Master C++ Programming — Udemy
+ • CProgramming Bootcamp — Udemy
+ • Low-Level Computing — Udemy
+ • Bluetooth Low Energy Fundamentals — Nordic Semiconductor
+ • IELTS B2 — British Council  
+ • DELF B2 — Institut Français de Tunis  
 
 ---
 
@@ -74,11 +80,19 @@ _Jan 2022 – Jun 2022_
   <img src="https://skillicons.dev/icons?i=linux,ros,rust,python,c,cpp,js,dart,php,qt,flutter,laravel,git,docker,figma&perline=8" alt="Tech Stack" />
 </p>
 
-- **Languages:** C, C++, Python, JavaScript, Dart, PHP  
-- **Frameworks:** Qt/QML, Flutter, Node-RED, Laravel  
-- **Cloud & DB:** Firebase, MySQL, PostgreSQL, MongoDB, CouchDB  
-- **Protocols & HW:** MQTT, BLE, UART, I²C, SPI, Profibus, ESP32, STM32, Raspberry Pi  
-- **DevOps & Tools:** Git, Docker, CI/CD pipelines, Figma  
+ • Operating Systems: Linux, Windows, ROS, FreeRTOS
+ • Programming Languages: C, C++, Rust, Python, JavaScript, Dart, PHP, VHDL
+ • Frameworks: Rust (Axum, Actix Web,Yew), Qt (C++/QML), Flutter (Dart), Laravel (PHP)
+ • Development Tools: VS Code, CubeIDE, MPLAB X IDE, Espressif IDE,Keil uVision, LabVIEW, PyCharm, Git, Android
+ Studio, Qt Creator, Keil uVision
+ • Artificial Intelligence: TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, pandas, seaborn
+ • Dev Boards: Raspberry Pi 4, Arduino, STM32, ESP32, ESP8266, S7-1200C, DSP, FPGA, nRF52 DK
+ • Debug & Flash: JTAG, SWD, GDB, OpenOCD, pyOCD, ST-Link, SEGGER J-Link, nrfjprog, esptool.py, RTT
+ • Toolchains/Build & SDKs: Clang, CMake, Make/Ninja, IAR EWARM, Keil MDK-ARM, ESP-IDF, nRF Connect SDK
+ • CAD: SolidWorks, AutoCAD, Altium Designer, Proteus (ISIS)
+ • Communication Protocols: UART, I2C, SPI, CAN, TCP/IP, UDP, WebSocket, Modbus, HTTP, MQTT, SMTP, BLE
+ • Databases: SQLite, MySQL, PostgreSQL, MongoDB, Firebase, Apache CouchDB, phpMyAdmin
+ • Languages: Arabic (Native), English (IELTS B2), French (DELF B2)
 
 ---
 
