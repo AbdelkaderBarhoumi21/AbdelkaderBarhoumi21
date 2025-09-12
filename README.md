@@ -13,111 +13,85 @@
 ---
 
 ## 👀 About Me  
-I’m an **Embedded Systems & Full-Stack Engineer** who thrives at the intersection of hardware and software. I build performant cross-platform GUIs (Qt/QML, Flutter) and scalable back-ends (Node.js, Laravel, Firebase) to deliver end-to-end IoT and automation solutions.  
-**Languages:** Arabic (native) · English (IELTS B2) · French (DELF B2)  
-📍 Tunis, Tunisia
+I’m an **Embedded Systems & Flutter Engineer** passionate about building **IoT solutions** and **cross-platform mobile apps**.  
+I love bridging **hardware + software**: from low-level drivers (C/C++, Rust, STM32, ESP32) to **scalable backends** (Laravel, Node.js, Rust) and **modern UIs** (Flutter, Qt/QML).  
+
+🌍 Based in Tunis, Tunisia  
+🗣️ Languages: Arabic (Native) · English (IELTS B2) · French (DELF B2)  
 
 ---
 
 ## 🎓 Education  
-**Polytech International**  
-_Engineering Degree in Mechatronics_ (2022 – 2025)  
-
-**ISET Rades**  
-_M.Sc. in Mechatronics_ (2022 – 2024)  
-_B.Sc. in Industrial Electricity_ (2019 – 2022)  
-
----
-
-## 📜 Certifications  
-• The Complete MongoDB Developers Course — Udemy
- • NodeJS Projects Bootcamp 2025: Learn by Doing — Udemy
- • PostgreSQL Bootcamp: Complete Beginner to Advanced Course — Udemy
- • Mastering MYSQL: Database Creation, Management SQL Queries — Udemy
- • Git- GitHub for Beginners: From Start to Star — Udemy
- • Data Structures and OOP with C++ : CS104, CS105 Masterclass — Udemy
- • Rust Programming Bootcamp- 100 Projects in 100 Days— Udemy
- • The Complete Rust Course — Udemy
- • Internet of Things (IoT) Online Course — Udemy
- • Node-RED Advanced — FlowFuse
- • Node-RED Fundamentals — FlowFuse
- • Master C++ Programming — Udemy
- • CProgramming Bootcamp — Udemy
- • Low-Level Computing — Udemy
- • Bluetooth Low Energy Fundamentals — Nordic Semiconductor
- • IELTS B2 — British Council  
- • DELF B2 — Institut Français de Tunis  
+**Polytech International** — _Mechatronics Engineering (2022 – 2025)_  
+**ISET Rades** — _M.Sc. Mechatronics (2022 – 2024)_  
+**ISET Rades** — _B.Sc. Industrial Electricity (2019 – 2022)_  
 
 ---
 
 ## 💼 Experience  
 
-### Capgemini Engineering — Embedded Systems Engineer Intern  
+### Capgemini Engineering — Flutter & Embedded Intern  
 _Feb 2025 – Jul 2025_  
-- Qt/QML dashboard for electronic shelf management (C/C++, PHP/Laravel, BLE).  
-- Architected RESTful APIs and MQTT workflows on Raspberry Pi.
-- Flutter Ecommerce Full Stack App (Admin - user - delivery).
+- Built a **cross-platform e-commerce Flutter app** (authentication, cart, delivery tracking, push notifications).  
+- Architected **Laravel REST API + PostgreSQL** backend with Google Maps integration.  
+- Developed a **Qt/QML dashboard** for electronic shelf management (BLE, UART/I2C, Raspberry Pi).  
+
+### CMI Impianti — Master’s Thesis (Flutter + Robotics)  
+_Jan 2024 – Jul 2024_  
+- Flutter mobile app & Node.js dashboard for a **teleoperated robot**.  
+- Integrated **real-time telemetry (REST/WebSockets)**, role-based access & Figma-driven UX.  
 
 ### OPALIA RECORDATI — Industry 4.0 Intern  
 _Jul 2024 – Sep 2024_  
-- SCADA/ERP UIs with Node-RED; STM32 sensors over Profibus.  
-- Secure MQTT pipelines and CouchDB storage.
-
-### CMI Impianti — Master’s Thesis Internship  
-_Jan 2024 – Jul 2024_  
-- Autonomous security robot (Python, OpenCV, PyTorch, Flutter).  
-- Multi-sensor fusion and real-time alerting.
+- Designed **IoT monitoring dashboards** with Node-RED, STM32 sensors & CouchDB.  
+- Integrated **Profibus, CAN & MQTT** protocols into factory ERP/SCADA.  
 
 ### SETEM — Bachelor’s Thesis Internship  
 _Jan 2022 – Jun 2022_  
-- ESP32-based smart energy meter; WebSockets & ThingSpeak dashboard.
+- **ESP32 smart energy meter** with Flutter mobile dashboard & WebSocket/ThingSpeak API.  
 
 ---
 
 ## 🛠️ Core Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ros,rust,python,c,cpp,js,dart,php,qt,flutter,laravel,git,docker,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,qt,php,laravel,nodejs,js,rust,python,c,cpp,linux,git,docker,firebase,figma&perline=8" alt="Tech Stack" />
 </p>
 
- • Operating Systems: Linux, Windows, ROS, FreeRTOS
- • Programming Languages: C, C++, Rust, Python, JavaScript, Dart, PHP, VHDL
- • Frameworks: Rust (Axum, Actix Web,Yew), Qt (C++/QML), Flutter (Dart), Laravel (PHP)
- • Development Tools: VS Code, CubeIDE, MPLAB X IDE, Espressif IDE,Keil uVision, LabVIEW, PyCharm, Git, Android
- Studio, Qt Creator, Keil uVision
- • Artificial Intelligence: TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, pandas, seaborn
- • Dev Boards: Raspberry Pi 4, Arduino, STM32, ESP32, ESP8266, S7-1200C, DSP, FPGA, nRF52 DK
- • Debug & Flash: JTAG, SWD, GDB, OpenOCD, pyOCD, ST-Link, SEGGER J-Link, nrfjprog, esptool.py, RTT
- • Toolchains/Build & SDKs: Clang, CMake, Make/Ninja, IAR EWARM, Keil MDK-ARM, ESP-IDF, nRF Connect SDK
- • CAD: SolidWorks, AutoCAD, Altium Designer, Proteus (ISIS)
- • Communication Protocols: UART, I2C, SPI, CAN, TCP/IP, UDP, WebSocket, Modbus, HTTP, MQTT, SMTP, BLE
- • Databases: SQLite, MySQL, PostgreSQL, MongoDB, Firebase, Apache CouchDB, phpMyAdmin
- • Languages: Arabic (Native), English (IELTS B2), French (DELF B2)
+- **Mobile:** Flutter (GetX, BLoC, Clean Architecture, Firebase, Supabase, Appwrite)  
+- **Embedded/IoT:** STM32, ESP32, nRF52, Raspberry Pi, FreeRTOS, BLE, Modbus, CAN  
+- **Backends:** Node.js (Express/Socket.IO), Laravel (PHP), Rust (Axum), REST/GraphQL  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, CouchDB, SQLite  
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn, OpenCV  
+- **Tools:** VS Code, Qt Creator, Android Studio, Altium Designer, GitHub, CI/CD  
+- **Protocols:** UART, SPI, I2C, MQTT, WebSockets, HTTP, TCP/IP  
 
 ---
 
-## 🚀 Selected Projects  
+## 🚀 Projects  
 
-- **Industrial IoT Dashboard** (Qt/QML)  
-- **Smart Home Hybrid App** (Flutter + QML)  
-- **Connected Irrigation System** (ESP32 → Firebase → Flutter)  
-- **OBD-II Vehicle Diagnostics** (ESP32 + ThingSpeak)  
-- **Ambulatory BLE Monitor** (nRF52822 + MLX90614)  
+- **E-Commerce App** — Flutter (Admin, Delivery, Customer) + Laravel API + PostgreSQL/MySQL  
+- **Food Delivery App** — Flutter + Google Maps SDK + Supabase/Firebase  
+- **Real-time Chat App** — Flutter + Node.js (WebSockets/Socket.IO) + Firebase  
+- **BLE Ambulatory Monitor** — nRF52822 + Flutter app + SQLite for medical IoT  
+- **Robotic Arm Control** — STM32 + FreeRTOS + Qt/QML dashboard  
+- **Connected Irrigation System** — ESP32 + Flutter + Firebase + Node-RED  
+- **OBD-II Vehicle Diagnostics** — ESP32 + ELM327 + ThingSpeak  
 
 ---
 
-## 📈 Activity & Trophies  
+## 📜 Certifications  
 
-<p align="center">
-  <!-- Replace with your actual WakaTime or other activity badge -->
-  <img src="https://wakatime.com/badge/user/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.svg" alt="WakaTime" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBarhoumi21&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
-  </a>
-</p>
+- Flutter & Firebase Chat App — Udemy (2025)  
+- Dart & Flutter: The Complete Flutter Development Course — Udemy (2025)  
+- Git & GitHub for Beginners — Udemy (2025)  
+- Master Web & Mobile Design: Figma, UI/UX — Udemy (2025)  
+- The Complete Rust Course — Udemy (2025)  
+- Rust Programming Bootcamp (100 Projects in 100 Days) — Udemy (2025)  
+- MongoDB, PostgreSQL, MySQL Bootcamps — Udemy (2025)  
+- Node-RED Advanced & Fundamentals — FlowFuse (2025)  
+- Bluetooth Low Energy Fundamentals — Nordic Semiconductor (2025)  
+- IELTS B2 — British Council | DELF B2 — Institut Français de Tunis  
 
 ---
 
@@ -136,10 +110,4 @@ _Jan 2022 – Jun 2022_
 ## 📫 Let’s Connect  
 ✉️ abdelkaderbarhoumi21@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/barhoumi23176/)  
-🐙 [GitLab](https://gitlab.com/barhoumi-dev)
-
----
-
-<div align="center">
-  <sub>Profile last updated: July 2025</sub>
-</div>
+🐙 [GitHub](https://github.com/AbdelkaderBarhoumi21)  
