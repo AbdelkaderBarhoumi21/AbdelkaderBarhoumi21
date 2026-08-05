@@ -1,273 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1520,50:38BDF8,100:818CF8&height=200&section=header&text=Abdelkader%20Barhoumi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%E2%80%A2%20Flutter%20%26%20Native%20Android&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1520,50:38BDF8,100:818CF8&height=180&section=header&text=Hey,%20I'm%20Abdelkader%20👋&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdelkaderBarhoumi21&label=Profile+Views&color=38BDF8&style=flat-square)](https://github.com/AbdelkaderBarhoumi21)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barhoumi23176/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelkaderbarhoumi21@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdelkaderBarhoumi21)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://abdelkaderbarhoumi21.github.io/portfolio/)
+### Mobile Software Engineer building Flutter & Native Android apps that ship 🚀
 
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Mobile+Software+Engineer+%F0%9F%9A%80;Flutter+%26+Native+Android+(Kotlin%2FCompose)+%F0%9F%93%B1;Kotlin+Multiplatform+(KMP)+Explorer+%F0%9F%94%81;Clean+Architecture+%26+Testing+Advocate+%F0%9F%8F%97%EF%B8%8F;Open+to+Canada+%F0%9F%87%A8%F0%9F%87%A6+%26+UAE+%F0%9F%87%A6%F0%9F%87%AA)
+<a href="https://www.linkedin.com/in/barhoumi23176/"><img src="https://img.shields.io/badge/-LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdelkaderbarhoumi21@gmail.com"><img src="https://img.shields.io/badge/-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://abdelkaderbarhoumi21.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/AbdelkaderBarhoumi21"><img src="https://komarev.com/ghpvc/?username=AbdelkaderBarhoumi21&style=flat-square&color=38BDF8&label=Visitors" /></a>
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
-
-```dart
-class Developer {
-  final String name     = "Abdelkader Barhoumi";
-  final String role     = "Mobile Software Engineer — Flutter & Native Android";
-  final String location = "Tunis, Tunisia 🇹🇳";
-  final String lead     = "Mobile Department Lead @ Oxton Digital";
-
-  final List<String> currentlyBuilding = [
-    "Sparta Coaching — cross-platform fitness app (Flutter, BLoC, GetStream.io)",
-    "Bowling entertainment app — XML+Java → Kotlin+Jetpack Compose migration",
-    "Exploring Kotlin Multiplatform (KMP) — shared logic, SwiftUI/Compose UIs",
-  ];
-
-  final Map<String, List<String>> expertise = {
-    "Mobile (Flutter)": ["Dart", "BLoC/Cubit", "Riverpod", "GetIt/Injectable", "Clean Architecture"],
-    "Android Native"  : ["Kotlin", "Jetpack Compose", "Hilt", "Retrofit", "Room"],
-    "Multiplatform"   : ["KMP", "Shared business logic", "SwiftUI/Compose interop"],
-    "Embedded/IoT"    : ["BLE (Nordic, MDS)", "Drift", "Offline-first sync"],
-    "Backend"         : ["Rust (Axum)", "Node.js", "Laravel", "WebSockets"],
-  };
-
-  bool get openToRelocation => true; // 🇨🇦 Canada · 🇦🇪 UAE
-
-  void sayHi() => print("Let's build something amazing together! 🚀");
-}
-```
-
-- 🌍 **Location:** Tunis, Tunisia
-- 💼 **Currently:** Mobile Department Lead @ **Oxton Digital**
-- 🎓 **Background:** Embedded Systems & Mechatronics Engineering — a rare edge for BLE/IoT-integrated mobile apps
-- 🗣️ **Languages:** Arabic (Native) · English (IELTS B2) · French (DELF B2)
-- 🧭 **Actively exploring:** roles in **Canada** and the **UAE**
-- ⚡ **Fun fact:** I migrate legacy XML/Java Android apps to modern Kotlin + Jetpack Compose — and enjoy it
-
----
-
-## 💼 Experience
-
-| Company | Role | Period | Key Tech |
-|---|---|---|---|
-| **Oxton Digital** 🇹🇳 Tunis | Mobile Department Lead (Full-time, On-site) | Apr 2026 – Present | Flutter · Kotlin · Jetpack Compose · BLoC/Cubit · GetStream.io · Firebase |
-| **Stoneslane** 🇦🇪 Dubai | Mobile Engineer — Flutter (Contract, Remote) | Oct 2025 – Present | Flutter · BLoC/Cubit · ObjectBox · Algolia · Fastlane |
-| **Sifartek** 🇩🇿 Algeria | Mobile Software Engineer — Flutter (Contract, Remote) | Feb 2026 – Apr 2026 | Flutter · BLE (Nordic/MDS) · Drift · Cloud Sync |
-| **Nexits** 🇫🇷 Paris | Mobile Engineer — Flutter (Contract, Remote) | Oct 2025 – Dec 2025 | Flutter · Riverpod · OpenAPI/Swagger · Drift |
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🧩 State Management & Architecture
-![BLoC](https://img.shields.io/badge/BLoC%2FCubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-34D399?style=for-the-badge&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### ⚙️ Backend & Real-time
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### 🔌 IoT & Embedded
-![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🗄️ Databases & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Room](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
+## ⚡ Quick Facts
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ Sparta Coaching
-Cross-platform fitness app for iOS & Android.
-
-- 📋 Workout tracking & training-plan management
-- 💬 Real-time chat via GetStream.io
-- 🏗️ BLoC/Cubit + Clean Architecture
-- 🔥 Firebase Crashlytics & push notifications
-
-**Stack:** Flutter · Dart · BLoC/Cubit · GetStream.io · Firebase
-
-</td>
-<td width="50%" valign="top">
-
-### 🎳 Bowling App Migration
-Legacy entertainment app modernization (France).
-
-- 🔁 XML + Java → Kotlin + Jetpack Compose
-- 🏗️ Clean Architecture introduced
-- 🎨 Modern UI patterns
-
-**Stack:** Kotlin · Jetpack Compose · Java
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 TaskPulse
-Native Android task-management app.
-
-- 🧩 Hilt dependency injection
-- 🌐 Retrofit/OkHttp networking
-- 💾 Room persistence
-- 🧱 Sealed classes & `AppResult` (Either-type) error handling
-
-**Stack:** Kotlin · Jetpack Compose · Hilt · Retrofit · Room
+```yaml
+name: Abdelkader Barhoumi
+role: Mobile Department Lead @ Oxton Digital
+base: Tunis, Tunisia 🇹🇳
+focus: Flutter · Native Android (Kotlin/Compose) · KMP
+background: Embedded Systems & Mechatronics Engineering
+languages: Arabic (native) · English (B2) · French (B2)
+open_to: Relocation → Canada 🇨🇦 · UAE 🇦🇪
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🌤️ ForecastMVVM
-Weather app with dual UI approach.
-
-- 📊 XML + Jetpack Compose views
-- 💾 Room with KSP
-- 🗺️ Jetpack Navigation with SafeArgs
-- 🌐 Retrofit-powered forecasts
-
-**Stack:** Kotlin · Room/KSP · Retrofit · Jetpack Navigation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Multi-role E-commerce App
-3-role platform: Admin / Delivery / Customer.
-
-- 🔐 JWT auth & role management
-- 🗺️ Google Maps live tracking
-- 🖥️ Qt/QML desktop dashboard
-
-**Stack:** Flutter · BLoC/Cubit · Laravel · PostgreSQL · Qt/QML
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Real-time Chat App
-Group messaging with a Rust backend.
-
-- ✅ Read receipts & typing indicators
-- 📎 Media sharing, search, blocking
-- ⚡ WebSocket architecture
-
-**Stack:** Flutter · Riverpod · Rust/Axum · MongoDB
+**What I'm doing right now**
+- 🏋️ Leading mobile delivery on **Sparta Coaching**, a cross-platform fitness app
+- 🎳 Migrating a legacy Android app from XML/Java → Kotlin + Jetpack Compose
+- 🔁 Learning **Kotlin Multiplatform (KMP)** — one Dart/Kotlin brain, two native UIs
+- 🧭 Talking to teams in **Canada** and the **UAE**
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
+## 🧰 Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelkaderBarhoumi21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBarhoumi21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&hide=jupyter%20notebook)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AbdelkaderBarhoumi21&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=818CF8&currStreakLabel=94A3B8&sideNums=94A3B8&currStreakNum=38BDF8&dates=475569&sideLabels=94A3B8)
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,nodejs,rust,firebase,postgres,mongodb,docker,git,figma,githubactions&theme=dark" />
 
 </div>
 
----
+<div align="center">
 
-## 🎓 Education
+| Layer | Tools |
+|---|---|
+| **Mobile — Flutter** | Dart · BLoC/Cubit · Riverpod · GetIt/Injectable · Clean Architecture |
+| **Mobile — Native Android** | Kotlin · Jetpack Compose · Hilt · Retrofit · Room |
+| **Multiplatform** | KMP · shared business logic across Android/iOS |
+| **Backend** | Rust (Axum) · Node.js · Laravel · WebSockets |
+| **Data** | Firebase/Firestore · PostgreSQL · MongoDB · Drift · ObjectBox |
+| **DevOps** | Git · Docker · Fastlane · CI/CD |
 
-| Degree | Institution | Period |
+</div>
+
+<br>
+
+## 💼 Experience Timeline
+
+```text
+2026 ────────────────────────────────────────────────────────►
+ Apr ┤ Oxton Digital, Tunis — Mobile Department Lead (Full-time)
+ Feb ┤ Sifartek, Algeria — Flutter Engineer, BLE/IoT (Contract) ──┐ ended Apr 2026
+2025                                                              │
+ Oct ┤ Stoneslane, Dubai — Flutter Engineer (Contract, ongoing) ──┘
+ Oct ┤ Nexits, Paris — Flutter Engineer, healthcare (Contract) ── ended Dec 2025
+```
+
+<br>
+
+## 🚀 Recent Work
+
+| Project | What it does | Stack |
 |---|---|---|
-| 🎓 Engineering Degree — Embedded Systems & Mobile Development | Polytech International, Tunis | 2022 – 2025 |
-| 📚 Master's — Mechatronics Engineering | ISET Rades | 2022 – 2024 |
-| 📖 Bachelor's — Industrial Electrical Engineering | ISET Rades | 2019 – 2022 |
+| **Sparta Coaching** | Cross-platform fitness app — workout tracking, plans, real-time chat | Flutter · BLoC · GetStream.io · Firebase |
+| **Bowling App Migration** | Modernized a legacy French entertainment app | Kotlin · Jetpack Compose · Clean Architecture |
+| **TaskPulse** | Native Android task manager with typed error handling | Kotlin · Hilt · Retrofit · Room |
+| **ForecastMVVM** | Weather app with XML + Compose dual UI | Kotlin · Room/KSP · Jetpack Navigation |
+| **masdary_app** | Multi-flavor Flutter app (dev/staging/prod) with localization | Flutter · Firebase · Firestore · l10n |
 
----
+<br>
 
-## 🏆 Certifications
-
-<details>
-<summary><b>📜 View All Certifications</b></summary>
-
-| Certificate | Provider | Date |
-|---|---|---|
-| Claude Code in Action | Anthropic | Jan 2026 |
-| CI/CD with Jenkins and Docker | Udemy | Sep 2025 |
-| The Complete MongoDB Developers Course | Udemy | Sep 2025 |
-| NodeJS Projects Bootcamp 2025: Learn by Doing | Udemy | Aug 2025 |
-| PostgreSQL Bootcamp: Complete Beginner to Advanced | Udemy | Aug 2025 |
-| Rust Programming Bootcamp | Udemy | Jul 2025 |
-| Data Structures and OOP with C++ | Udemy | Jul 2025 |
-| Flutter & Firebase Chat App | Udemy | Jun 2025 |
-| Dart & Flutter: Complete Development Course | Udemy | May 2025 |
-| IELTS B2 | British Council | — |
-| DELF B2 | Institut Français de Tunis | — |
-
-</details>
-
----
-
-## 🤝 Let's Connect
+## 📊 Analytics
 
 <div align="center">
 
-I'm open to **Flutter**, **native Android**, and **KMP** roles — especially in 🇨🇦 **Canada** and 🇦🇪 **UAE**. Always happy to talk mobile architecture, BLE/IoT, or Clean Architecture.
+<img src="https://github-readme-stats.vercel.app/api?username=AbdelkaderBarhoumi21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBarhoumi21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165"/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelkaderBarhoumi21&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=818CF8&point=ffffff&hide_border=true" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barhoumi23176/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelkaderbarhoumi21@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelkaderBarhoumi21)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkaderBarhoumi21&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=818CF8&currStreakLabel=94A3B8"/>
 
-### 📧 abdelkaderbarhoumi21@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBarhoumi21&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
-<br/>
+</div>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> 💡 Analytics widgets are third-party (vercel-hosted) and may take a few seconds to load or occasionally rate-limit — if one shows blank, just refresh the page.
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,50:38BDF8,100:0D1520&height=120&section=footer&animation=fadeIn" />
+## 🎓 Education
+
+<table>
+<tr><td><b>Engineering — Embedded Systems & Mobile Dev</b></td><td>Polytech International, Tunis</td><td align="right">2022–2025</td></tr>
+<tr><td><b>Master's — Mechatronics</b></td><td>ISET Rades</td><td align="right">2022–2024</td></tr>
+<tr><td><b>Bachelor's — Industrial Electrical Engineering</b></td><td>ISET Rades</td><td align="right">2019–2022</td></tr>
+</table>
+
+<details>
+<summary><b>🏆 Certifications (11)</b></summary>
+<br>
+
+- Claude Code in Action — Anthropic (Jan 2026)
+- CI/CD with Jenkins and Docker — Udemy (Sep 2025)
+- The Complete MongoDB Developers Course — Udemy (Sep 2025)
+- NodeJS Projects Bootcamp 2025 — Udemy (Aug 2025)
+- PostgreSQL Bootcamp: Beginner to Advanced — Udemy (Aug 2025)
+- Rust Programming Bootcamp — Udemy (Jul 2025)
+- Data Structures and OOP with C++ — Udemy (Jul 2025)
+- Flutter & Firebase Chat App — Udemy (Jun 2025)
+- Dart & Flutter: Complete Development Course — Udemy (May 2025)
+- IELTS B2 — British Council
+- DELF B2 — Institut Français de Tunis
+
+</details>
+
+<br>
+
+<div align="center">
+
+### 📬 Let's talk Flutter, Android, KMP, or BLE/IoT
+
+<a href="https://www.linkedin.com/in/barhoumi23176/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdelkaderbarhoumi21@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<sub>"First, solve the problem. Then, write the code." — John Johnson</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:818CF8,50:38BDF8,100:0D1520&height=100&section=footer&animation=fadeIn" />
 
 </div>
