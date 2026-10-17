@@ -18,8 +18,17 @@ I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-principles-dark.svg" />
+  <img src="assets/sec-principles-light.svg" width="100%" alt="02 — How I work" />
+</picture>
+
+<img src="assets/principles.svg" width="100%" alt="Architecture first · Offline by default · Tested & automated · End-to-end ownership" />
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sec-work-dark.svg" />
-  <img src="assets/sec-work-light.svg" width="100%" alt="02 — Selected work" />
+  <img src="assets/sec-work-light.svg" width="100%" alt="03 — Selected work" />
 </picture>
 
 <p>
@@ -39,7 +48,7 @@ I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sec-oss-dark.svg" />
-  <img src="assets/sec-oss-light.svg" width="100%" alt="03 — Open source" />
+  <img src="assets/sec-oss-light.svg" width="100%" alt="04 — Open source" />
 </picture>
 
 | Project | What it is | Stack |
@@ -54,7 +63,7 @@ I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sec-experience-dark.svg" />
-  <img src="assets/sec-experience-light.svg" width="100%" alt="04 — Experience" />
+  <img src="assets/sec-experience-light.svg" width="100%" alt="05 — Experience" />
 </picture>
 
 <img src="assets/experience.svg" width="100%" alt="Oxton Digital — Mobile Department Lead (Apr 2026 – Present) · Stoneslane — Mobile Engineer (Oct 2025 – Present) · Sifartek — Mobile Engineer, BLE/IoT (Feb – Apr 2026) · Nexits — Mobile Engineer (Oct – Dec 2025)" />
@@ -63,7 +72,7 @@ I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sec-toolkit-dark.svg" />
-  <img src="assets/sec-toolkit-light.svg" width="100%" alt="05 — Toolkit" />
+  <img src="assets/sec-toolkit-light.svg" width="100%" alt="06 — Toolkit" />
 </picture>
 
 <p align="center">
@@ -75,8 +84,26 @@ I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department
 <br><br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-numbers-dark.svg" />
+  <img src="assets/sec-numbers-light.svg" width="100%" alt="07 — By the numbers" />
+</picture>
+
+<img src="assets/numbers.svg" width="100%" alt="GitHub stats: contributions in the last year, public repositories, active days, longest streak and top languages — refreshed daily" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-activity-dark.svg" />
+  <img src="assets/sec-activity-light.svg" width="100%" alt="08 — Contributions" />
+</picture>
+
+<img src="assets/activity.svg" width="100%" alt="Contribution graph for the last year — refreshed daily" />
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sec-education-dark.svg" />
-  <img src="assets/sec-education-light.svg" width="100%" alt="06 — Education" />
+  <img src="assets/sec-education-light.svg" width="100%" alt="09 — Education" />
 </picture>
 
 | Degree | School | Years |
