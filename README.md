@@ -11,7 +11,7 @@
   <img src="assets/sec-about-light.svg" width="100%" alt="01 — About" />
 </picture>
 
-I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department at **Oxton Digital** — where I oversee Flutter and native Android delivery across client projects. My background is in embedded systems and mechatronics, which is why I enjoy the hard edges of mobile: **BLE & Wi-Fi device links, offline-first sync, real-time chat and payment flows** that simply work.
+I'm a Mobile Software Engineer based in **Tunis**, leading the mobile department — where I oversee Flutter and native Android delivery across client projects. My background is in embedded systems and mechatronics, which is why I enjoy the hard edges of mobile: **BLE & Wi-Fi device links, offline-first sync, real-time chat and payment flows** that simply work.
 
 **Right now** — leading delivery on **Sparta Coaching** · migrating a legacy Android app from XML + Java to **Kotlin + Jetpack Compose** · learning **Kotlin Multiplatform** · open to relocation to **Canada** and the **UAE**.
 
